@@ -53,4 +53,4 @@ let myObj2= {
     [a+b]: 'hola peru'
 }
 
-console.log(myObj2)
+console.log(myObj2); */
